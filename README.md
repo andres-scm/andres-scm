@@ -1,11 +1,15 @@
-<h2 align="center">Hi 👋! My name is <a href="https://www.linkedin.com/in/andres-scm/">Andrés</a> and I'm a software developer</h2>
+## Hey I'm Andrés 👋
 
-## About me
-- Software engineer with over 7 years of experience and a passion for developing innovative technological solutions. I take pride in having a product-oriented mindset, not only focusing on writing code but also understanding the business and customer needs. 💼💡
-
-- My favorite language is Java ☕, and I stay up to date with the latest features and trends in its ecosystem. Additionally, I am constantly expanding my skills by learning new technologies and exploring new ways to enhance my capabilities as a software engineer. 🚀💪
-
-Thank you for visiting my profile! 👨‍💻💼🌟
+```json
+{
+  "job": "Software engineer",
+  "birthday": "1997-08-05",
+  "country": "Spain",
+  "city": "Ciudad Real",
+  "stack": ["Java", "Kotlin", "Docker", "AWS", "..."],
+  "interest": ["Tech", "Gym", "Music", "..."]
+}
+```
 
 ###
 
@@ -14,6 +18,12 @@ Thank you for visiting my profile! 👨‍💻💼🌟
 ###
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="Breakout Game" src="images/breakout-light.svg">
+</picture>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andres-scm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="150" alt="languages graph"  />
